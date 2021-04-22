@@ -5,6 +5,6 @@ main.remove();
 
 const newHeader = document.createElement("h1#victory")
 newHeader.append(h1);
-// const id = document.createElement("id")
-// id.innerHTML = "victory";
-// newHeader.appendChild(id);
+const id = document.createElement("id")
+id.innerHTML = "victory";
+newHeader.appendChild(id);
