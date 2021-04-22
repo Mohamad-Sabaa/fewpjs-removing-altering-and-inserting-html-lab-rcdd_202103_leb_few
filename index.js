@@ -9,3 +9,4 @@ newHeader.appendChild(h1);
 // id.innerHTML = "victory";
 // newHeader.appendChild(id);
 newHeader.getElementById("h1#victory");
+newHeader.innerHTML = `Mohamad is the champion`;
