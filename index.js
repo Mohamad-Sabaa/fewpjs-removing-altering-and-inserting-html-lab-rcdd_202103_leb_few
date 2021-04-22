@@ -8,4 +8,4 @@ newHeader.appendChild(h1);
 // const id = document.createElement("id")
 // id.innerHTML = "victory";
 // newHeader.appendChild(id);
-newHeader.getElementById("h1#victory")
+newHeader.getElementById("h1#victory");
