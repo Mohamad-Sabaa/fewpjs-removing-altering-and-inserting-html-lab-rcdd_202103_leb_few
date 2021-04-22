@@ -4,7 +4,7 @@ const main = document.querySelector('main#main')
 main.remove();
 
 const newHeader = document.createElement("h1")
-newHeader.append(h1);
+newHeader.appendChild(h1);
 const id = document.createElement("id")
 id.innerHTML = "victory";
 newHeader.appendChild(id);
