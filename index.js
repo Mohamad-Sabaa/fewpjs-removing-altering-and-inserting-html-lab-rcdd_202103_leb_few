@@ -1,6 +1,6 @@
 // Write your code here!
 const body = document.body;
-const main = document.querySelector('main')
+const main = document.querySelector('main#main')
 main.remove();
 
 const newHeader = document.createElement("h1")
